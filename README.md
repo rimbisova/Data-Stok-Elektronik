@@ -18,7 +18,7 @@ Konstruktor kelas ini menginisialisasi objek Elektronik dengan nilai-nilai atrib
 
 
 <h4>Deskripsi</h4>
-Aplikasi ini memungkinkan pengguna untuk mengelola stok barang elektronik, melakukan pembelian, dan melihat riwayat transaksi. Aplikasi ini dibuat dengan Python dan menggunakan konsep pemrograman berorientasi objek (OOP).
+Aplikasi ini memungkinkan pengguna untuk mengelola stok barang elektronik. Aplikasi ini dibuat dengan Python dan menggunakan konsep pemrograman berorientasi objek (OOP).
 
 <h4>Fitur Utama</h4>
 
